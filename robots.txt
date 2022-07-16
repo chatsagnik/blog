@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://chatsagnik.github.io/Theoreticles/sitemap.xml
