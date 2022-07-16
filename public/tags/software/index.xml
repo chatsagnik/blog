@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>software on Theoreticles</title>
+    <link>/tags/software/</link>
+    <description>Recent content in software on Theoreticles</description>
+    <image>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Jul 2022 19:41:46 +0530</lastBuildDate><atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpost</title>
+      <link>/posts/testpost/</link>
+      <pubDate>Sat, 16 Jul 2022 19:41:46 +0530</pubDate>
+      
+      <guid>/posts/testpost/</guid>
+      <description>Test Post Hi everyone
+This is a second header Hello World!
+What this will be Something
+fun frivolous entertaining Here is some math using Katex This is an inline fraction $ \frac{1}{2} $.
+This is a block equation $$ \tilde{O}\left(\sum_{i\in[M]}\frac{D^t}{Z_j}\right) $$</description>
+    </item>
+    
+  </channel>
+</rss>

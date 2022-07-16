@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: ""
 title: Theoreticles
 paginate: 10
 theme: PaperMod
